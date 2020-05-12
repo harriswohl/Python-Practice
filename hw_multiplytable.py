@@ -1,5 +1,8 @@
 factor = input("Factor: ")
-factor = int(factor)
+try:
+    factor = int(factor)
+except ValueError:
+    quit("Please enter an integer.")
 
 firstline = "n | {} * n".format(factor)
 print(firstline)
