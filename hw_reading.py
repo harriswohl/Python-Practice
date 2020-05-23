@@ -1,5 +1,5 @@
-#ask user how many pages they haev to read and how
-#many days they have left, keep track of daily
+#ask user how many pages they have to read and how
+#many days they have to read it, keep track of daily
 #number of pages read and return how many 
 #pages are needed each day.
 
