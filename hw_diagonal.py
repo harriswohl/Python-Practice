@@ -1,5 +1,4 @@
 #takes user input as a string and displays 
-
 #the string diagonally, 3 characters at a time
 userinput = input("text: ")
 
